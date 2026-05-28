@@ -287,5 +287,3 @@ The right metric depends on the business problem. In fraud detection, missing ac
 More complex solutions do not always produce better results. Testing SMOTE and class weighting showed that the simplest baseline model outperformed both. Always benchmark against a simple model before adding complexity.
 
 ---
-
-*Built as a learning project to explore classification, imbalanced datasets, and model evaluation in a real-world context.*
